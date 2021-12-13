@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GroceryList</string>
+    <string name="action_addInput">Input</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="share">Share</string>
+    <string name="addButton">add Item</string>
+    <string-array name="stores">
+        <item>Select a Store</item>>
+        <item>Costco</item>
+        <item>Woodmans</item>
+        <item>Meijer</item>
+    </string-array>
+</resources>
